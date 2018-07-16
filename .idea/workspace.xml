@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="304f4175-c451-49d5-ab28-a6204f93e0a8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex/largest_smallest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funs/format_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funs/fun3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funs/pass_by_ref.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funs/pass_by_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funs/filter_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funs/fun_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funs/local_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funs/sort_lambda_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,42 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dept_emp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/dept_emp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="even_dict.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/even_dict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="year_no_days.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/year_no_days.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fun1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funs/fun1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fun2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/funs/fun2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,8 +29,8 @@
       <file leaf-file-name="largest_smallest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex/largest_smallest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="264">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -93,14 +56,50 @@
       <file leaf-file-name="pass_by_value.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/funs/pass_by_value.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="286">
               <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pass_by_ref.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pass_by_ref.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/funs/pass_by_ref.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fun_object.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funs/fun_object.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funs/local_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter_demo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funs/filter_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sort_lambda_demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/funs/sort_lambda_demo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -144,6 +143,10 @@
         <option value="$PROJECT_DIR$/funs/format_demo.py" />
         <option value="$PROJECT_DIR$/funs/pass_by_value.py" />
         <option value="$PROJECT_DIR$/funs/pass_by_ref.py" />
+        <option value="$PROJECT_DIR$/funs/fun_object.py" />
+        <option value="$PROJECT_DIR$/funs/local_function.py" />
+        <option value="$PROJECT_DIR$/funs/filter_demo.py" />
+        <option value="$PROJECT_DIR$/funs/sort_lambda_demo.py" />
       </list>
     </option>
   </component>
@@ -197,8 +200,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pass_by_ref">
-    <configuration name="format_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sort_lambda_demo">
+    <configuration name="filter_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,13 +213,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/format_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/filter_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fun3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fun_object" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,13 +231,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/fun3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/fun_object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="largest_smallest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="local_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex/largest_smallest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/local_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +273,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pass_by_value" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sort_lambda_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,26 +285,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/pass_by_value.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/sort_lambda_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.largest_smallest" />
-      <item itemvalue="Python.fun3" />
-      <item itemvalue="Python.format_demo" />
-      <item itemvalue="Python.pass_by_value" />
       <item itemvalue="Python.pass_by_ref" />
+      <item itemvalue="Python.fun_object" />
+      <item itemvalue="Python.local_function" />
+      <item itemvalue="Python.filter_demo" />
+      <item itemvalue="Python.sort_lambda_demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort_lambda_demo" />
+        <item itemvalue="Python.filter_demo" />
+        <item itemvalue="Python.local_function" />
+        <item itemvalue="Python.fun_object" />
         <item itemvalue="Python.pass_by_ref" />
-        <item itemvalue="Python.pass_by_value" />
-        <item itemvalue="Python.format_demo" />
-        <item itemvalue="Python.fun3" />
-        <item itemvalue="Python.largest_smallest" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +329,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50674665" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46326837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -344,34 +347,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex/largest_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/nodays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/prime_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ds/squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -668,8 +643,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex/largest_smallest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="264">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -689,12 +664,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/funs/pass_by_value.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="286">
           <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/funs/pass_by_ref.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funs/fun_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funs/local_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funs/filter_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funs/sort_lambda_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
