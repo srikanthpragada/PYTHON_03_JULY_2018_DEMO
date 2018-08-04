@@ -12,7 +12,10 @@ class Bowler(Cricketer):
 
     @property
     def points(self):
-        return self.wickets // 5;
+        return self.wickets // 5
+
+    def get_points(self):
+        return self.wickets // 5
 
 
 class Batsman(Cricketer):
@@ -22,7 +25,10 @@ class Batsman(Cricketer):
 
     @property
     def points(self):
-        return self.runs // 100;
+        return self.runs // 100
+
+    def get_points(self):
+        return self.runs // 100
 
 
 class Allrounder(Batsman, Bowler):
@@ -35,13 +41,13 @@ class Allrounder(Batsman, Bowler):
 
     @property
     def points(self):
-        return Batsman.points.fget(self) + Bowler.points.fget(self)
+        return Batsman.get_points(self) + Bowler.get_points(self)
 
 
-ba = Batsman("Xyz", "India", 10, 1000)
-bo = Bowler("Pqr", "Aus", 10, 250)
-print(ba.points)
-print(bo.points)
+# ba = Batsman("Xyz", "India", 10, 1000)
+# bo = Bowler("Pqr", "Aus", 10, 250)
+# print(ba.points)
+# print(bo.points)
 a = Allrounder("Abc", "India", 10, 50, 2000)
 a.print()
 print(a.points)
